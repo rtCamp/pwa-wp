@@ -24,7 +24,7 @@
     "@wordpress/env": "10.7.0",
     "@wordpress/eslint-plugin": "21.0.0",
     "@wordpress/scripts": "29.0.0",
-    "eslint": "8.57.1",
+    "eslint": "9.33.0",
     "eslint-plugin-eslint-comments": "3.2.0",
     "eslint-plugin-import": "2.30.0",
     "eslint-plugin-jsdoc": "50.2.3",
