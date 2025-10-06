@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "efbac1ff5ddfba190c901ed2fa68f883",
+    "content-hash": "cab36cc3b42e17185e2ca33c2a7f13b6",
     "packages": [],
     "packages-dev": [
         {
@@ -3071,16 +3071,16 @@
         },
         {
             "name": "wp-phpunit/wp-phpunit",
-            "version": "6.6.2",
+            "version": "6.8.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-phpunit/wp-phpunit.git",
-                "reference": "7a1d3a2150033a3d3e19de40aa5b2ef2fee36bc3"
+                "reference": "a33d328dab5a4a9ddf0c560bcadbabb58b5ee67f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-phpunit/wp-phpunit/zipball/7a1d3a2150033a3d3e19de40aa5b2ef2fee36bc3",
-                "reference": "7a1d3a2150033a3d3e19de40aa5b2ef2fee36bc3",
+                "url": "https://api.github.com/repos/wp-phpunit/wp-phpunit/zipball/a33d328dab5a4a9ddf0c560bcadbabb58b5ee67f",
+                "reference": "a33d328dab5a4a9ddf0c560bcadbabb58b5ee67f",
                 "shasum": ""
             },
             "type": "library",
@@ -3115,7 +3115,7 @@
                 "issues": "https://github.com/wp-phpunit/issues",
                 "source": "https://github.com/wp-phpunit/wp-phpunit"
             },
-            "time": "2024-07-17T01:13:44+00:00"
+            "time": "2025-04-16T01:40:54+00:00"
         },
         {
             "name": "yoast/phpunit-polyfills",
@@ -3249,14 +3249,14 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": [],
+    "stability-flags": {},
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
         "php": "^7.0 || ^8.0",
         "ext-json": "*"
     },
-    "platform-dev": [],
+    "platform-dev": {},
     "platform-overrides": {
         "php": "7.2"
     },
